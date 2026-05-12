@@ -1,10 +1,10 @@
 # Proyecto Final de Electrónica 2 y Diseño Electrónico 1 - PCIe to NVMe M.2 SSD Switch
 
 <p align="center">
-  <h3><em>Universidad del Istmo de Guatemala</em></h3><br>
-  <h3><em>Facultad de Ingeniería</em></h3><br>
-  <h3><em>Proyecto Final</em></h3><br>
-  <h3><em>Electrónica 2 y Diseño Electrónico 1</em></h3>
+  <em>Universidad del Istmo de Guatemala</em><br>
+  <em>Facultad de Ingeniería</em><br>
+  <em>Proyecto Final</em><br>
+  <em>Electrónica 2 y Diseño Electrónico 1</em>
 </p>
 
 <div align="center">
@@ -12,8 +12,8 @@
 </div>
 
 <p align="center">
-  <h3><em>Maximiliano González</em></h3><br>
-  <h3><em>mayo de 2026</em></h3>
+  <em>Maximiliano González</em><br>
+  <em>mayo de 2026</em>
 </p>
 
 ## Descripción general
