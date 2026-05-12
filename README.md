@@ -24,7 +24,7 @@
 
 Este repositorio documenta el diseño de una tarjeta personalizada con **switch PCIe Gen 3 para expansión de SSDs NVMe M.2**. El objetivo del proyecto es tomar una conexión PCIe desde el host y distribuirla mediante un switch PCIe para conectar varios SSDs NVMe M.2 en una sola tarjeta.
 
-La tarjeta se desarrolló como proyecto final de electrónica y se enfoca en el trabajo práctico necesario para un sistema PCIe de alta velocidad: captura esquemática, diseño del árbol de potencia, planeación de carriles PCIe, distribución del reloj de referencia, manejo de reset/wake/presence, bus SMBus/I2C, conectores M.2, restricciones de layout, stack-up e integración mecánica. Es importante notar que no el diseno final **no** soporta **hot plug**.
+La tarjeta se desarrolló como proyecto final de electrónica y se enfoca en el trabajo práctico necesario para un sistema PCIe de alta velocidad: captura esquemática, diseño del árbol de potencia, planeación de carriles PCIe, distribución del reloj de referencia, manejo de reset/wake/presence, bus SMBus/I2C, conectores M.2, restricciones de layout, stack-up e integración mecánica. Es importante notar que el diseno final **no** soporta **hot plug**.
 
 ## Tabla de Contenido
 
