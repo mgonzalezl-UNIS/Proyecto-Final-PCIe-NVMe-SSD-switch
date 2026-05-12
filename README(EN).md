@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="Fotos Main/Logo_UNIS.png" alt="Logo UNIS" width="200"/>
+  <img src="Fotos Main/Logo_UNIS.png" alt="Logo UNIS" width="45%"/>
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ## Overview
 
 <div align="center">
-  <img src="FOTOS/PCIe_NVMe_LAYOUT.png" alt="PCB LAYOUT" width="200"/>
+  <img src="FOTOS/PCIe_NVMe_LAYOUT.png" alt="PCB LAYOUT" width="85%"/>
 </div>
 
 This repository documents the design of a custom **PCIe Gen 3 switch board for NVMe M.2 SSD expansion**. The goal of the project is to take a PCIe host connection and fan it out through a PCIe switch so multiple NVMe M.2 SSDs can be connected on one board.
@@ -63,43 +63,43 @@ The board is intended as a final electronics 2 project and focuses on the practi
 ### Top Layer
 
 <div align="center">
-  <img src="FOTOS/TOPL.png" alt="TOP LAYER" width="200"/>
+  <img src="FOTOS/TOPL.png" alt="TOP LAYER" width="85%"/>
 </div>
 
 ### GND02 Layer
 
 <div align="center">
-  <img src="FOTOS/GND02L.png" alt="GND02 LAYER" width="200"/>
+  <img src="FOTOS/GND02L.png" alt="GND02 LAYER" width="85%"/>
 </div>
 
 ### ART03 Layer
 
 <div align="center">
-  <img src="FOTOS/ART03L.png" alt="ART03 LAYER" width="200"/>
+  <img src="FOTOS/ART03L.png" alt="ART03 LAYER" width="85%"/>
 </div>
 
 ### ART04 Layer
 
 <div align="center">
-  <img src="FOTOS/ART04L.png" alt="ART04 LAYER" width="200"/>
+  <img src="FOTOS/ART04L.png" alt="ART04 LAYER" width="85%"/>
 </div>
 
 ### PWR05 Layer
 
 <div align="center">
-  <img src="FOTOS/PWR05L.png" alt="PWR05 LAYER" width="200"/>
+  <img src="FOTOS/PWR05L.png" alt="PWR05 LAYER" width="85%"/>
 </div>
 
 ### BOTTOM Layer
 
 <div align="center">
-  <img src="FOTOS/BOTTOML.png" alt="BOTTOM LAYER" width="200"/>
+  <img src="FOTOS/BOTTOML.png" alt="BOTTOM LAYER" width="85%"/>
 </div>
 
 ## Main PCIe Switch IC
 
 <div align="center">
-  <img src="FOTOS/PI7C9X3G816GP.webp" alt="PI7C9X3G816GP Chip" width="200"/>
+  <img src="FOTOS/PI7C9X3G816GP.webp" alt="PI7C9X3G816GP Chip" width="45%"/>
 </div>
 
 The design is based around the **Diodes Incorporated PI7C9X3G816GP**, a PCI Express Gen 3 packet switch. In this project, the switch is used to connect one upstream PCIe interface to multiple downstream NVMe M.2 SSD ports.
@@ -148,7 +148,7 @@ The switch receives the upstream PCIe link from the host and distributes downstr
 ## Major Design Blocks
 
 <div align="center">
-  <img src="FOTOS/PCIe_NVMe_DOWNTREAM.png" alt="Schematic Downstream Ports 1 - 4" width="200"/>
+  <img src="FOTOS/PCIe_NVMe_DOWNTREAM.png" alt="Schematic Downstream Ports 1 - 4" width="75%"/>
 </div>
 
 ### 1. PCIe Upstream Interface
@@ -265,20 +265,20 @@ The design emphasizes deterministic hardware defaults, clean high-speed routing,
 
 - Cadence OrCAD Capture for schematic design.
 
-<div align="center">
-  <img src="FOTOS/OrCAD-X-Capture.webp" alt="OrCad Capture Logo" width="200"/>
+<div align="left">
+  <img src="FOTOS/OrCAD-X-Capture.webp" alt="OrCad Capture Logo" width="25%"/>
 </div>
 
 - Cadence Allegro PCB Editor for layout.
 
-<div align="center">
-  <img src="FOTOS/OrCAD-X-PCB_Editor-1.webp" alt="OrCad Allegro Logo" width="200"/>
+<div align="left">
+  <img src="FOTOS/OrCAD-X-PCB_Editor-1.webp" alt="OrCad Allegro Logo" width="25%"/>
 </div>
 
 - Diodes PI7C9X3G816GP datasheet and EVB documentation as references.
 
-<div align="center">
-  <img src="FOTOS/DIODES-logo.webp" alt="DIODES Inc. Logo" width="200"/>
+<div align="left">
+  <img src="FOTOS/DIODES-logo.webp" alt="DIODES Inc. Logo" width="25%"/>
 </div>
 
 - Manufacturer datasheets for regulators, connectors, capacitors, resistors, MOSFETs, and logic devices.
