@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="Fotos Main/Logo_UNIS.png" alt="Logo UNIS" width="45%"/>
+  <img src="FOTOS/Logo_UNIS.png" alt="Logo UNIS" width="45%"/>
 </div>
 
 <p align="center">
@@ -99,7 +99,7 @@ The board is intended as a final electronics 2 project and focuses on the practi
 ## Main PCIe Switch IC
 
 <div align="center">
-  <img src="FOTOS/PI7C9X3G816GP.webp" alt="PI7C9X3G816GP Chip" width="45%"/>
+  <img src="FOTOS/PI7C9X3G816GP.webp" alt="PI7C9X3G816GP Chip" width="50%"/>
 </div>
 
 The design is based around the **Diodes Incorporated PI7C9X3G816GP**, a PCI Express Gen 3 packet switch. In this project, the switch is used to connect one upstream PCIe interface to multiple downstream NVMe M.2 SSD ports.
