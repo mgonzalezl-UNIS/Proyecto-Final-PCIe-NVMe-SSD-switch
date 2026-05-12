@@ -147,7 +147,7 @@ El switch recibe el enlace PCIe upstream desde el host y distribuye enlaces PCIe
 ## Bloques principales del diseño
 
 <div align="center">
-  <img src="FOTOS/PCIe_NVMe_DOWNTREAM.png" alt="Schematic Downstream Ports 1 - 4" width="50%"/>
+  <img src="FOTOS/PCIe_NVMe_DOWNTREAM.png" alt="Schematic Downstream Ports 1 - 4" width="75%"/>
 </div>
 
 ### 1. Interfaz PCIe upstream
@@ -265,19 +265,19 @@ El diseño enfatiza defaults de hardware determinísticos, ruteo limpio de alta 
 - Cadence OrCAD Capture para el esquemático.
 
 <div align="left">
-  <img src="FOTOS/OrCAD-X-Capture.webp" alt="OrCad Capture Logo" width="45%"/>
+  <img src="FOTOS/OrCAD-X-Capture.webp" alt="OrCad Capture Logo" width="25%"/>
 </div>
 
 - Cadence Allegro PCB Editor para layout.
 
 <div align="left">
-  <img src="FOTOS/OrCAD-X-PCB_Editor-1.webp" alt="OrCad Allegro Logo" width="45%"/>
+  <img src="FOTOS/OrCAD-X-PCB_Editor-1.webp" alt="OrCad Allegro Logo" width="25%"/>
 </div>
 
 - Datasheet y documentación EVB del Diodes PI7C9X3G816GP como referencia.
 
 <div align="left">
-  <img src="FOTOS/DIODES-logo.webp" alt="DIODES Inc. Logo" width="45%"/>
+  <img src="FOTOS/DIODES-logo.webp" alt="DIODES Inc. Logo" width="25%"/>
 </div>
 
 - Datasheets de fabricantes para reguladores, conectores, capacitores, resistores, MOSFETs y lógica.
