@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="FOTOS/Logo_UNIS.png" alt="Logo UNIS" width="75%"/>
+  <img src="FOTOS/Logo_UNIS.png" alt="Logo UNIS" width="45%"/>
 </div>
 
 <p align="center">
