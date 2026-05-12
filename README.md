@@ -62,37 +62,37 @@ La tarjeta se desarrolló como proyecto final de electrónica y se enfoca en el 
 ### Top Layer
 
 <div align="center">
-  <img src="FOTOS/TOPL.png" alt="TOP LAYER" width="45%"/>
+  <img src="FOTOS/TOPL.png" alt="TOP LAYER" width="85%"/>
 </div>
 
 ### GND02 Layer
 
 <div align="center">
-  <img src="FOTOS/GND02L.png" alt="GND02 LAYER" width="45%"/>
+  <img src="FOTOS/GND02L.png" alt="GND02 LAYER" width="85%"/>
 </div>
 
 ### ART03 Layer
 
 <div align="center">
-  <img src="FOTOS/ART03L.png" alt="ART03 LAYER" width="45%"/>
+  <img src="FOTOS/ART03L.png" alt="ART03 LAYER" width="85%"/>
 </div>
 
 ### ART04 Layer
 
 <div align="center">
-  <img src="FOTOS/ART04L.png" alt="ART04 LAYER" width="45%"/>
+  <img src="FOTOS/ART04L.png" alt="ART04 LAYER" width="85%"/>
 </div>
 
 ### PWR05 Layer
 
 <div align="center">
-  <img src="FOTOS/PWR05L.png" alt="PWR05 LAYER" width="45%"/>
+  <img src="FOTOS/PWR05L.png" alt="PWR05 LAYER" width="85%"/>
 </div>
 
 ### BOTTOM Layer
 
 <div align="center">
-  <img src="FOTOS/BOTTOML.png" alt="BOTTOM LAYER" width="45%"/>
+  <img src="FOTOS/BOTTOML.png" alt="BOTTOM LAYER" width="85%"/>
 </div>
 
 ## Chip PCIe principal
