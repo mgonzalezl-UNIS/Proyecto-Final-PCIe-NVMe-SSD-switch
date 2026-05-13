@@ -38,6 +38,10 @@ The board is intended as a final electronics 2 project and focuses on the practi
     - [ART04 Layer](#art04-layer)
     - [PWR05 Layer](#pwr05-layer)
     - [Bottom Layer](#bottom-layer)
+  - [Concepto 3D](#3D-concept)
+    - [Isometric View](#isometric-view)
+    - [Front View](#front-View)
+    - [Back View](#back-view)
   - [Main PCIe Switch IC](#main-pcie-switch-ic)
   - [Project Goals](#project-goals)
   - [High-Level Architecture](#high-level-architecture)
@@ -94,6 +98,26 @@ The board is intended as a final electronics 2 project and focuses on the practi
 
 <div align="center">
   <img src="FOTOS/BOTTOML.png" alt="BOTTOM LAYER" width="85%"/>
+</div>
+
+## 3D Concept
+
+### Isometric View
+
+<div align="center">
+  <img src="FOTOS/PCIe_NVMe_3D_ISO.jpeg" alt="3D Isometric View" width="85%"/>
+</div>
+
+### Front View
+
+<div align="center">
+  <img src="FOTOS/PCIe_NVMe_3D_Front.jpeg" alt="3D Front View" width="85%"/>
+</div>
+
+### Back View
+
+<div align="center">
+  <img src="FOTOS/PCIe_NVMe_3D_Back.jpeg" alt="3D Back View" width="85%"/>
 </div>
 
 ## Main PCIe Switch IC
@@ -310,6 +334,9 @@ The design emphasizes deterministic hardware defaults, clean high-speed routing,
 │   ├── Logo_UNIS.png
 │   ├── OrCAD-X-Capture.webp
 │   ├── OrCAD-X-PCB_Editor-1.webp
+│   ├── PCIe_NVMe_3D_Back.png
+│   ├── PCIe_NVMe_3D_Front.png
+│   ├── PCIe_NVMe_3D_ISO.png
 │   ├── PCIe_NVMe_DOWNTREAM.png
 │   ├── PCIe_NVMe_LAYOUT.png
 │   ├── PI7C9X3G816GP.webp
