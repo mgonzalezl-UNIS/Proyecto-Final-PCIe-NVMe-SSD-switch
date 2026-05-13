@@ -38,7 +38,7 @@ The board is intended as a final electronics 2 project and focuses on the practi
     - [ART04 Layer](#art04-layer)
     - [PWR05 Layer](#pwr05-layer)
     - [Bottom Layer](#bottom-layer)
-  - [Concepto 3D](#3D-concept)
+  - [3D Concept](#3D-concept)
     - [Isometric View](#isometric-view)
     - [Front View](#front-View)
     - [Back View](#back-view)
