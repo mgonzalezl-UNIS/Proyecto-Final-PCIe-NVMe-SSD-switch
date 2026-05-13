@@ -99,12 +99,6 @@ La tarjeta se desarrolló como proyecto final de electrónica y se enfoca en el 
   <img src="FOTOS/BOTTOML.png" alt="BOTTOM LAYER" width="85%"/>
 </div>
 
-## Chip PCIe principal
-
-<div align="center">
-  <img src="FOTOS/PI7C9X3G816GP.webp" alt="PI7C9X3G816GP Chip" width="50%"/>
-</div>
-
 ## Concepto 3D
 
 ### Isometric View
@@ -123,6 +117,12 @@ La tarjeta se desarrolló como proyecto final de electrónica y se enfoca en el 
 
 <div align="center">
   <img src="FOTOS/PCIe_NVMe_3D_Back.jpeg" alt="3D Back View" width="85%"/>
+</div>
+
+## Chip PCIe principal
+
+<div align="center">
+  <img src="FOTOS/PI7C9X3G816GP.webp" alt="PI7C9X3G816GP Chip" width="50%"/>
 </div>
 
 El diseño está basado en el **Diodes Incorporated PI7C9X3G816GP**, un switch PCI Express Gen 3. En este proyecto, el switch se usa para conectar una interfaz PCIe upstream con varios puertos downstream para SSDs NVMe M.2.
