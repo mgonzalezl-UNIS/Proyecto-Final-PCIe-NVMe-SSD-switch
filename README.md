@@ -37,6 +37,10 @@ La tarjeta se desarrolló como proyecto final de electrónica y se enfoca en el 
     - [ART04 Layer](#art04-layer)
     - [PWR05 Layer](#pwr05-layer)
     - [Bottom Layer](#bottom-layer)
+  - [Concepto 3D](#concepto-3D)
+    - [Isometric View](#isometric-view)
+    - [Front View](#front-View)
+    - [Back View](#back-view)
   - [Chip PCIe principal](#chip-pcie-principal)
   - [Objetivos del proyecto](#objetivos-del-proyecto)
   - [Arquitectura general](#arquitectura-general)
@@ -99,6 +103,26 @@ La tarjeta se desarrolló como proyecto final de electrónica y se enfoca en el 
 
 <div align="center">
   <img src="FOTOS/PI7C9X3G816GP.webp" alt="PI7C9X3G816GP Chip" width="50%"/>
+</div>
+
+## Concepto 3D
+
+### Isometric View
+
+<div align="center">
+  <img src="FOTOS/PCIe_NVMe_3D_ISO.jpeg" alt="3D Isometric View" width="85%"/>
+</div>
+
+### Front View
+
+<div align="center">
+  <img src="FOTOS/PCIe_NVMe_3D_Front.jpeg" alt="3D Front View" width="85%"/>
+</div>
+
+### Back View
+
+<div align="center">
+  <img src="FOTOS/PCIe_NVMe_3D_Back.jpeg" alt="3D Back View" width="85%"/>
 </div>
 
 El diseño está basado en el **Diodes Incorporated PI7C9X3G816GP**, un switch PCI Express Gen 3. En este proyecto, el switch se usa para conectar una interfaz PCIe upstream con varios puertos downstream para SSDs NVMe M.2.
@@ -310,6 +334,9 @@ El diseño enfatiza defaults de hardware determinísticos, ruteo limpio de alta 
 │   ├── Logo_UNIS.png
 │   ├── OrCAD-X-Capture.webp
 │   ├── OrCAD-X-PCB_Editor-1.webp
+│   ├── PCIe_NVMe_3D_Back.png
+│   ├── PCIe_NVMe_3D_Front.png
+│   ├── PCIe_NVMe_3D_ISO.png
 │   ├── PCIe_NVMe_DOWNTREAM.png
 │   ├── PCIe_NVMe_LAYOUT.png
 │   ├── PI7C9X3G816GP.webp
